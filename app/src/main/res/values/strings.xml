@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QUIZ GAME</string>
+    <string name="truebutton">TRUE</string>
+    <string name="falsebutton">FALSE</string>
+    <string name="q1">In space it is impossible to cry?</string>
+    <string name="q2"><b>\"Copyrightable\"</b> is the longest word in the English language that can be written without repeating a letter? </string>
+    <string name="q3">Slug\'s don\'t have any noses?</string>
+    <string name="q4">Most Eskimoes have fridges?</string>
+    <string name="q5"> An Ostrich\'s eye is bigger than it\'s brain?</string>
+    <string name="q6"> 	Thomas Edison, who invented the lightbulb, was afraid of the dark?</string>
+    <string name="q7"> There are no anagrams of the word "stationed"?</string>
+    <string name="q8">Taphephobia is the fear of losing your teeth? </string>
+    <string name="q9">Over 80,000 photographs are taken around the world every second? </string>
+    <string name="q10">The letter<b><u> "t" </u></b>is the second most common letter used in the English language? </string>
+<string name="c">THAT\'S  CORRECT</string>
+    <string name="i">THAT\'S  INCORRECT</string>
+
+
+
+</resources>
